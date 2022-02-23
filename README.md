@@ -6,12 +6,17 @@ Upload the dataset https://archive.ics.uci.edu/ml/machine-learning-databases/004
     to MongoDB and perform various operations on it.
 
 ## Modules
-1. main Initialize the project.
-2. config Configure few constant parameters.
-3. database Functions for connecting to databse and loading data.
-4. operations Class for db operation.
-5. user Functions for getting user parameters
+1. main- Initialize the project.
+2. config- Configure few constant parameters.
+3. database- Functions for connecting to databse and loading data.
+4. operations- Class for db operation.
+5. user- Functions for getting user parameters
 
 ## Resource
 carbon_nanotubes.csv
+
+### Shorcomings
+1. The program is not generic to handle other csv files.
+2. All db operations are not implemented.
+3. For many operations like filter only basic functionality is implemented.
 
