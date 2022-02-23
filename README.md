@@ -15,7 +15,7 @@ Upload the dataset https://archive.ics.uci.edu/ml/machine-learning-databases/004
 ## Resource
 carbon_nanotubes.csv
 
-### Shorcomings
+### Shortcomings
 1. The program is not generic to handle other csv files.
 2. All db operations are not implemented.
 3. For many operations like filter only basic functionality is implemented.
